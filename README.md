@@ -28,4 +28,4 @@ Ce projet consiste à appliquer un modèle de régression linéaire simple sur u
 
 ```bash
 git clone https://github.com/ton-utilisateur/ton-projet.git
-cd ton-projet
+cd dumb_stat-stud
