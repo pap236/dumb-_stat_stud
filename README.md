@@ -27,5 +27,5 @@ Ce projet consiste à appliquer un modèle de régression linéaire simple sur u
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/ton-utilisateur/ton-projet.git
+git clone https://github.com/pap236/dumb-_stat_stud.git
 cd dumb-_stat-stud
